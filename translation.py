@@ -30,18 +30,21 @@ class Translation(object):
 #Please don't change this about command 🙏
 
       ABOUT = """
-**📝 Language:** Python 3
+🤖 **Bot** : Country Info Bot
 
-**🧰 Framework:** Pyrogram
+👲 **Developer** : [ᴍʜᴅ ᴍᴜꜰᴀz](https://telegram.me/Mufaz123)
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+📣 **Channel** : @BX_Botz
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+👥 **Group :** [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BxSupport)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+💻 **Source :** [Click here](https://t.me/nokiyirunnoippokitum)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+🎧 **Language :** [Python3](https://python.org/)
 
+📚 **Library :** [Pyrogram v1.2.0](https://pyrogram.org/)
+
+🧑‍💻 **Server :** [Heroku](https://heroku.com/)
 """
 
 ####################################################################################################################################################
@@ -93,10 +96,10 @@ ETA 🕰: {4}
 
 
       DOWNLOAD_START = "Trying to Download 📥"
-      DOWNLOAD_COMPLETE = "✅ Media Downloaded successfully\nPreparing for upload"
+      DOWNLOAD_COMPLETE = "✅ Media Downloaded Successfully\nPreparing for upload"
       UPLOAD_START = "Trying to Upload 📤"
-      UPLOAD_COMPLETE = "THANKS FOR USING ME"
-      SAVED_CUSTOM_THUMB_NAIL = "✅ Saved Thumbnail Successfully. This will be deleted in 24hrs"
+      UPLOAD_COMPLETE = "Thanks For Using Me 😜\n\n👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʙx ʙᴏᴛᴢ](https://t.me/BX_Botz)"
+      SAVED_CUSTOM_THUMB_NAIL = "✅ **Thumbnail Saved Successfully**"
       BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME 🐒"
       REPLY_TEXT = "👩‍✈️ Reply to the media which you need to convert"
-      DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Deleted Successfully ✅"
+      DEL_ETED_CUSTOM_THUMB_NAIL = "**Thumbnail Deleted Successfully** ✅"
