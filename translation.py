@@ -30,7 +30,7 @@ class Translation(object):
 #Please don't change this about command 🙏
 
       ABOUT = """
-🤖 **Bot** : Country Info Bot
+🤖 **Bot** : Convert To Video Bot
 
 👲 **Developer** : [ᴍʜᴅ ᴍᴜꜰᴀz](https://telegram.me/Mufaz123)
 
